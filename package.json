@@ -1,0 +1,21 @@
+{
+  "name": "node-utils",
+  "version": "1.0.0",
+  "description": "Node utils",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "npx ts-node src/index.ts"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
