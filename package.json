@@ -1,5 +1,5 @@
 {
-  "name": "node-utils",
+  "name": "@stdiogh321/node-utils",
   "version": "1.0.0",
   "description": "Node utils",
   "main": "dist/index.js",
@@ -13,6 +13,11 @@
   ],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdioh321/node-utils.git"
+  },
+  "homepage": "https://github.com/stdioh321/node-utils.git#readme",
   "devDependencies": {
     "@types/node": "^22.1.0",
     "ts-node": "^10.9.2",
