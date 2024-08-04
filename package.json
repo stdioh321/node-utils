@@ -1,11 +1,14 @@
 {
   "name": "@stdioh321/node-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node utils",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "start": "npx ts-node src/index.ts"
+    "start": "npx ts-node src/index.ts",
+    "clean": "rm -rf dist",
+    "prepublishOnly": "npm run clean && npm run build"
   },
   "keywords": [
     "library"
