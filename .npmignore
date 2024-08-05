@@ -1,5 +1,15 @@
+# Node modules directory
+node_modules
+
+# TypeScript config file
+tsconfig.json
+
+# Source directory
 src
+
+# Logs
+*.log
+
+# Git repository files
 .git
 .gitignore
-node_modules
-*.log

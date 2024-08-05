@@ -1,6 +1,6 @@
 {
   "name": "@stdioh321/node-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node utils",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
