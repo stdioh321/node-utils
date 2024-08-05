@@ -13,3 +13,7 @@ src
 # Git repository files
 .git
 .gitignore
+
+
+# yarn
+yarn.lock

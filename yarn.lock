@@ -27,11 +27,6 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@stdioh321/node-utils@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@stdioh321/node-utils/-/node-utils-1.0.2.tgz#7a2e40f3f0f52ce3eb4bb542569bb70b5078e249"
-  integrity sha512-7xaFKBC8dvQ1KNTPYfDYuzCFZFXwiaPKAZP+3CU7RBFxWmrZY+oQ5yWZrwZj7KwlOMKILeBSl+e2polNstQNww==
-
 "@tsconfig/node10@^1.0.7":
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/@tsconfig/node10/-/node10-1.0.11.tgz#6ee46400685f130e278128c7b38b7e031ff5b2f2"
